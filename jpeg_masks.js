@@ -1,5 +1,6 @@
 
-//
+// Edited code from http://jim.studt.net/jpeg-alpha/
+// 
 // This is from jacksdamblog -- http://blog.jackadam.net/2010/alpha-jpegs/
 // I changed the 'xor' to a 'source-in' so the same mask PNG could also be
 // used with CSS image masks, changed how the canvas gets its dimension to
